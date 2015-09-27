@@ -1,0 +1,6 @@
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 1\StackTest\StackTest\bin\Debug\StackTest.exe.config
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 1\StackTest\StackTest\bin\Debug\StackTest.exe
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 1\StackTest\StackTest\bin\Debug\StackTest.pdb
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 1\StackTest\StackTest\obj\Debug\StackTest.csprojResolveAssemblyReference.cache
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 1\StackTest\StackTest\obj\Debug\StackTest.exe
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 1\StackTest\StackTest\obj\Debug\StackTest.pdb

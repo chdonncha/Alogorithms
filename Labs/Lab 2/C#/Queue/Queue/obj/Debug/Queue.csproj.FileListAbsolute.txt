@@ -1,0 +1,6 @@
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 2\C#\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 2\C#\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 2\C#\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 2\C#\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 2\C#\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 2\C#\Queue\Queue\obj\Debug\Queue.pdb

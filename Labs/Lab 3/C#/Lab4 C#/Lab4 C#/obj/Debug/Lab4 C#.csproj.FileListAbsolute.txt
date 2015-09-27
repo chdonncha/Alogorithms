@@ -1,0 +1,6 @@
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 4\C#\Lab4 C#\Lab4 C#\bin\Debug\Lab4 C#.exe.config
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 4\C#\Lab4 C#\Lab4 C#\bin\Debug\Lab4 C#.exe
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 4\C#\Lab4 C#\Lab4 C#\bin\Debug\Lab4 C#.pdb
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 4\C#\Lab4 C#\Lab4 C#\obj\Debug\Lab4 C#.csprojResolveAssemblyReference.cache
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 4\C#\Lab4 C#\Lab4 C#\obj\Debug\Lab4 C#.exe
+C:\Users\donncha\Desktop\College Work\DIT\Systems and Algorithms\Lab 4\C#\Lab4 C#\Lab4 C#\obj\Debug\Lab4 C#.pdb
